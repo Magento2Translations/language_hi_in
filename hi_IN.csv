@@ -1,0 +1,12 @@
+"Paypal account","पेपैल खाता",module,Magento_Braintree
+"Coinbase account","कॉइनबेस खाता",module,Magento_Braintree
+"Europe bank account","यूरोप बैंक खाता",module,Magento_Braintree
+"Credit card","क्रेडिट कार्ड",module,Magento_Braintree
+"Apple pay card","एप्पल पे कार्ड",module,Magento_Braintree
+"Android pay card","एंड्रायड पे कार्ड",module,Magento_Braintree
+"Authorization expired","प्राधिकरण की समयसीमा समाप्त",module,Magento_Braintree
+Authorizing,अधिकृत,module,Magento_Braintree
+Authorized,अधिकृत,module,Magento_Braintree
+"Gateway rejected","गेटवे अस्वीकृत",module,Magento_Braintree
+Failed,"विफल रहा",module,Magento_Braintree
+"Processor declined","प्रोसेसर अस्वीकृत",module,Magento_Braintree
