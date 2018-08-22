@@ -4,3 +4,10 @@
 Remove,निकालें,module,Magento_AdminNotification
 "Messages Inbox","संदेश इनबॉक्स",module,Magento_AdminNotification
 "1 Hour","1 घंटा",module,Magento_AdminNotification
+"System messages","Major System Messages",module,Magento_AdminNotification
+"Please correct the data sent.","कृपया भेजे गए डेटा को सही करें।",module,Magento_AdvancedPricingImportExport
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","इकाई प्रकार मॉडल \ Magento \ CatalogImportExport \ Model \ Export \ Product \ Type \ AbstractType का एक उदाहरण होना चाहिए",module,Magento_AdvancedPricingImportExport
+"There are no product types available for export","निर्यात के लिए कोई उत्पाद प्रकार उपलब्ध नहीं है",module,Magento_AdvancedPricingImportExport
+"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","व्यवस्थापक सत्र जीवनकाल से कम या बराबर ३१५३६००० सेकंड (एक वर्ष) होना चाहिए",module,Magento_Backend
+"Admin session lifetime must be greater than or equal to 60 seconds","व्यवस्थापक सत्र जीवनकाल ६० सेकंड से अधिक या बराबर होना चाहिए",module,Magento_Backend
+"If no value is specified, the system default is used. The system default may be modified by third party extensions.","यदि कोई मान निर्दिष्ट नहीं है, तो सिस्टम डिफ़ॉल्ट उपयोग किया जाता है । सिस्टम डिफ़ॉल्ट तृतीय पक्ष एक्सटेंशन द्वारा संशोधित किया जा सकता है ।",module,Magento_Backend
