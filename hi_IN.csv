@@ -4,3 +4,7 @@
 Remove,निकालें,module,Magento_AdminNotification
 "Messages Inbox","संदेश इनबॉक्स",module,Magento_AdminNotification
 "1 Hour","1 घंटा",module,Magento_AdminNotification
+"System messages","Major System Messages",module,Magento_AdminNotification
+"Please correct the data sent.","कृपया भेजे गए डेटा को सही करें।",module,Magento_AdvancedPricingImportExport
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","इकाई प्रकार मॉडल \ Magento \ CatalogImportExport \ Model \ Export \ Product \ Type \ AbstractType का एक उदाहरण होना चाहिए",module,Magento_AdvancedPricingImportExport
+"There are no product types available for export","निर्यात के लिए कोई उत्पाद प्रकार उपलब्ध नहीं है",module,Magento_AdvancedPricingImportExport
