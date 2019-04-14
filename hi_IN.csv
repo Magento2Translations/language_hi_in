@@ -1,0 +1,150 @@
+"Read Details","विवरण पढ़ें",module,Magento_AdminNotification
+"Mark as Read","पढ़ा चिह्नित करें",module,Magento_AdminNotification
+"Are you sure?","क्या आपको यकीन है?",module,Magento_AdminNotification
+Remove,निकालें,module,Magento_AdminNotification
+"Messages Inbox","संदेश इनबॉक्स",module,Magento_AdminNotification
+close,"बंद करें",module,Magento_AdminNotification
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","आपने देखा और सभी हालिया सिस्टम सूचनाओं को हल किया है । कृपया सूचना चेतावनी साफ़ करने के लिए वेब पेज को ताज़ा करें ।",module,Magento_AdminNotification
+"1 Hour","1 घंटा",module,Magento_AdminNotification
+major,प्रमुख,module,Magento_AdminNotification
+minor,मामूली,module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","एक या अधिक कैश प्रकार अमांय हैं: %1. ",module,Magento_AdminNotification
+"System messages","Major System Messages",module,Magento_AdminNotification
+"Please correct the data sent.","कृपया भेजे गए डेटा को सही करें।",module,Magento_AdvancedPricingImportExport
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","इकाई प्रकार मॉडल \ Magento \ CatalogImportExport \ Model \ Export \ Product \ Type \ AbstractType का एक उदाहरण होना चाहिए",module,Magento_AdvancedPricingImportExport
+"There are no product types available for export","कोई उत्पाद प्रकार निर्यात के लिए उपलब्ध हैं",module,Magento_AdvancedPricingImportExport
+"Subscription status","सदस्यता स्थिति",module,Magento_Analytics
+"Sorry, there has been an error processing your request. Please try again later.","क्षमा करें, आपके अनुरोध को संसाधित करने में कोई त्रुटि आई है । कृपया बाद में पुन: प्रयास करें ।",module,Magento_Analytics
+"--Please Select--","--कृपया चुनें--",module,Magento_Analytics
+"These arguments can't be empty ""%1""","ये तर्क रिक्त नहीं हो सकते ""%1""",module,Magento_Analytics
+"File is not ready yet.","फाइल अभी तैयार नहीं हुई है।",module,Magento_Analytics
+"We can't process your order right now. Please try again later.","हम अभी आपके आदेश की प्रक्रिया नहीं कर सकते । कृपया बाद में पुन: प्रयास करें ।",module,Magento_Authorizenet
+"This payment didn't work out because we can't find this order.","यह भुगतान बाहर काम नहीं किया क्योंकि हम इस आदेश नहीं मिल सकता है ।",module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","कुछ गलत हुआ: भुगतान की गई राशि ऑर्डर राशि से मेल नहीं खाती । कृपया इसे सुधारें और पुन: प्रयास करें ।",module,Magento_Authorizenet
+"We couldn't find any records.","हमें कोई रिकॉर्ड नहीं मिला ।",module,Magento_Backend
+"We can't refresh lifetime statistics.","हम आजीवन सांख्यिकी को ताज़ा नहीं कर सकते.",module,Magento_Backend
+"We can't create a backup right now. Please try again later.","हम अभी आपके आदेश की प्रक्रिया नहीं कर सकते । कृपया बाद में पुन: प्रयास करें ।",module,Magento_Backend
+"Authentication storage is incorrect.","प्रमाणीकरण संग्रह गलत है ।",module,Magento_Backend
+"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","व्यवस्थापक सत्र जीवनकाल से कम या बराबर ३१५३६००० सेकंड (एक वर्ष) होना चाहिए",module,Magento_Backend
+"Admin session lifetime must be greater than or equal to 60 seconds","व्यवस्थापक सत्र जीवनकाल ६० सेकंड से अधिक या बराबर होना चाहिए",module,Magento_Backend
+"Please confirm scope switching. All data that hasn't been saved will be lost.","कृपया क्षेत्र स्विचिंग की पुष्टि करें । सहेजे नहीं गए सभी डेटा खो जाएंगे ।",module,Magento_Backend
+"We can't create the backup right now.","हम अभी बैकअप नहीं बना सकते ।",module,Magento_Backup
+System,सिस्‍टम,module,Magento_Backup
+"We can't delete one or more backups.","हम एक या अधिक बैकअप नहीं हटा सकते ।",module,Magento_Backup
+"Can't load snapshot archive","स्नैपशॉट संग्रह लोड नहीं कर सकता",module,Magento_Backup
+"We can't find the backup file.","हम बैकअप फ़ाइल नहीं ढूँढ सकता ।",module,Magento_Backup
+"We can't connect to the FTP right now.","हम अभी FTP से कनेक्ट नहीं कर सकता ।",module,Magento_Backup
+"We can't initialize checkout.","हम चेकआउट प्रारंभ नहीं कर सकता ।",module,Magento_Braintree
+"As Low as","के रूप में कम के रूप में",module,Magento_Bundle
+"We can't add this item to your shopping cart right now.","हम इस आइटम को आपकी शॉपिंग कार्ट में नहीं जोड़ सकते ।",module,Magento_Bundle
+"Entity type model '%1' is not found","निकाय प्रकार मॉडल '%1' नहीं मिला है",module,Magento_CatalogImportExport
+"File directory '%1' is not readable.","फाइल निर्देशिका '%1' पठनीय नहीं है ।",module,Magento_CatalogImportExport
+"File directory '%1' is not writable.","फाइल निर्देशिका '%1' पठनीय नहीं है ।",module,Magento_CatalogImportExport
+"Value for 'price' sub attribute in 'store' attribute contains incorrect value","' मूल्य ' उप विशेषता में ' संग्रह ' विशेषता के लिए मान गलत मान हैं",module,Magento_CatalogImportExport
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: 'dropdown', 'checkbox'","' प्रकार ' उप विशेषता में ' custom_options ' विशेषता के लिए मान गलत मान हैं, स्वीकार्य मान हैं: ' ड्रॉपडाउन ', ' चेकबॉक्स '",module,Magento_CatalogImportExport
+"Value for 'price' sub attribute in 'custom_options' attribute contains incorrect value","' मूल्य ' उप विशेषता में ' संग्रह ' विशेषता के लिए मान गलत मान हैं",module,Magento_CatalogImportExport
+"Value for 'maximum characters' sub attribute in 'custom_options' attribute contains incorrect value","' मूल्य ' उप विशेषता में ' संग्रह ' विशेषता के लिए मान गलत मान हैं",module,Magento_CatalogImportExport
+"Value for 'sort order' sub attribute in 'custom_options' attribute contains incorrect value","' मूल्य ' उप विशेषता में ' संग्रह ' विशेषता के लिए मान गलत मान हैं",module,Magento_CatalogImportExport
+"Value for 'value price' sub attribute in 'custom_options' attribute contains incorrect value","' मूल्य ' उप विशेषता में ' संग्रह ' विशेषता के लिए मान गलत मान हैं",module,Magento_CatalogImportExport
+"File '%1' was not found or has read restriction.","फाइल '%1' नहीं मिली या फिर पठन प्रतिबंध है ।",module,Magento_CatalogImportExport
+"We can't rebuild the index for an undefined product.","हम किसी अपरिभाषित उत्पाद के लिए अनुक्रमणिका का पुन: निर्माण नहीं कर सकते ।",module,Magento_CatalogInventory
+"The stock item for Product in option is not valid.","विकल्प में उत्पाद के लिए स्टॉक आइटम मांय नहीं है ।",module,Magento_CatalogInventory
+Promotions,प्रचार,module,Magento_CatalogRule
+"Allow HTML Tags on Storefront","दृश्यपटल पर HTML टैग्स की अनुमति",module,Magento_Catalog
+"Visible on Catalog Pages on Storefront","storefront पर कैटलॉग पृष्ठों पर दृश्यमान",module,Magento_Catalog
+Empty,खाली,module,Magento_Catalog
+"An attribute set named '%1' already exists.","'%1' नामक विशेषता सेट पहले से मौजूद है ।",module,Magento_Catalog
+"We can't update the attribute.","हम विशेषता अद्यतन नहीं कर सकता ।",module,Magento_Catalog
+"We can't delete this set right now.","हम अभी इस सेट को हटा नहीं सकते ।",module,Magento_Catalog
+"We can't move the category because the parent category name matches the child category name.","हम श्रेणी को नहीं ले जा सकते क्योंकि पैरेंट श्रेणी नाम चाइल्ड श्रेणी नाम से मेल खाता है ।",module,Magento_Catalog
+"We can't rebuild the index for an undefined product.","हम किसी अपरिभाषित उत्पाद के लिए अनुक्रमणिका का पुन: निर्माण नहीं कर सकते ।",module,Magento_Catalog
+"We couldn't copy file %1. Please delete media with non-existing images and try again.","%1 फ़ाइल की प्रतिलिपि करने में विफल रहा। कृपया, गैर-मौजूदा छवियों के साथ मीडिया को हटाएँ और पुन: प्रयास करें।",module,Magento_Catalog
+"We can't add the product to the cart because of an option validation issue.","हम एक विकल्प मान्यता समस्या के कारण cart करने के लिए उत्पाद नहीं जोड़ सकते ।",module,Magento_Catalog
+"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","उत्पाद में ऐसे डेटा के साथ समूह मूल्य नहीं है: customergroupid = '%1', वेबसाइट = < div class = ""notranslate"" > १ </div>, qty = < div वर्ग = ""notranslate"" > 2 </div>",module,Magento_Catalog
+"Product %1 doesn't have linked %2 as %3","उत्पाद %1 के पास लिंक नहीं है < div class = ""notranslate"" > १ </div> as %3",module,Magento_Catalog
+fl,Fl,module,Magento_Catalog
+"Add to Wish List","इच्छा सूचि में डालें",module,Magento_Catalog
+"We can't find products matching the selection.","चयन से मेल खाते कोई उत्पादों रहे हैं।",module,Magento_Catalog
+"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","नए ई-निजता निर्देश का अनुपालन करने के लिए, हमें कुकी सेट करने के लिए आपकी सहमति लेनी होगी.",module,Magento_Cookie
+"Click ""Save"" to apply the rates we found.","हमें मिले दरों को लागू करने के लिए ""सहेजें"" पर क्लिक करें ।",module,Magento_CurrencySymbol
+"All valid rates have been saved.","सभी वैध दरों को बचा लिया गया है ।",module,Magento_CurrencySymbol
+"Orphan rows that will be skipped due default row errors","ऑर्फ़न पंक्तियां जो डिफ़ॉल्ट पंक्ति त्रुटियों के कारण छोड़ी जाएंगी",module,Magento_CustomerImportExport
+"Password Strength","पासवर्ड सामर्थ्य",module,Magento_Customer
+"Undefined rate from ""%1-%2"".","""< div class ="" notranslate ""से अपरिभाषित दर > 0 </div>-< div class ="" notranslate ""> 1 </div>"".",module,Magento_Directory
+hello,नमस्कार,module,Magento_Eav
+Title,शीर्षक,module,Magento_Email
+"Update by Schedule","अनुसूची द्वारा अद्यतन",module,Magento_Indexer
+"State for the same view","समान दृश्य के लिए स्थिति",module,Magento_Indexer
+"On Gesture","इशारे पर",module,Magento_Msrp
+"Place Order","स्थान क्रम",module,Magento_Multishipping
+"Queue Information","केही जानकारी",module,Magento_Newsletter
+"Duplicate Row #%1 (duplicates row #%2)","डुप्लिकेट पंक्ति #%1 (डुप्लिकेट पंक्ति #%2)",module,Magento_OfflineShipping
+"We cannot retrieve the transparent payment method model object.","हम पारदर्शी भुगतान विधि मॉडल ऑब्जेक्ट प्राप्त नहीं कर सकता ।",module,Magento_Payment
+"General: Withdrawal from PayPal Account","जनरल: पेपैल खाते से निकासी",module,Magento_Paypal
+"Mobile Payment (made via a mobile phone)","मोबाइल भुगतान (एक मोबाइल फोन के माध्यम से बनाया)",module,Magento_Paypal
+"Place Order","स्थान क्रम",module,Magento_Paypal
+"Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","जाँच &quot;मुझे याद है&quot; इस कंप्यूटर पर अपनी शॉपिंग कार्ट तक पहुंचने के लिए भले ही आप साइन इन न हों ।",module,Magento_Persistent
+"Customers by Orders Total","कुल ऑर्डर के अनुसार ग्राहक",module,Magento_Reports
+Filter,फ़िल्टर,module,Magento_Reports
+"Pending product review(s)","लंबित उत्पाद समीक्षा (s)",module,Magento_Review
+"Save Order Address","आदेश पता सहेजें",module,Magento_Sales
+"Visible On Storefront","स्टोरफ़्रंट पर दृश्यमान",module,Magento_Sales
+"Visible on Storefront","स्टोरफ़्रंट पर दृश्यमान",module,Magento_Sales
+"Email Order Confirmation","ईमेल आदेश पुष्टिकरण",module,Magento_Sales
+"Delete Synonym Group","समानार्थी समूह हटाएं",module,Magento_Search
+"Search entire store here...","खोज पूरे यहां स्टोर.. ।",module,Magento_Search
+"Your current session has been expired.","आपका वर्तमान सत्र समाप्त हो गया है ।",module,Magento_Security
+"Delivered on:","पर दिया:",module,Magento_Shipping
+"Store with the same code","एक ही कोड के साथ स्टोर",module,Magento_Store
+"Default store is inactive","डिफ़ॉल्ट संग्रह निष्क्रिय है",module,Magento_Store
+"New %1","नया %1",module,Magento_Ui
+"Variable Code","चर(वेरिएबल्स) का नाम",module,Magento_Variable
+"Variable HTML Value","परिवर्तनीय एचटीएमएल वैल्यू",module,Magento_Variable
+"Wish List","इच्छा सूची",module,Magento_Wishlist
+"Wish List Sharing","काश सूची शेयरिंग",module,Magento_Wishlist
+"%1's Wish List","%1की इच्छा सूची",module,Magento_Wishlist
+"%1 has been moved to your wish list.","%1 को आपकी इच्छा सूची में ले जाया गया है ।",module,Magento_Wishlist
+"This wish list can be shared %1 more times.","इस इच्छा सूची साझा किया जा सकता है %1 अधिक बार ।",module,Magento_Wishlist
+"Your wish list has been shared.","आपकी इच्छा सूची साझा की गई है ।",module,Magento_Wishlist
+"%1 has been updated in your Wish List.","%1 को आपकी इच्छा सूची में ले जाया गया है ।",module,Magento_Wishlist
+"Display number of items in wish list","काश सूची में आइटम की संख्या प्रदर्शित करें",module,Magento_Wishlist
+"Place Order","स्थान क्रम",module,Magento_Authorizenet
+"Place Order","स्थान क्रम",module,Magento_Braintree
+Login,"लॉग इन",module,Magento_Checkout
+"Place Order","स्थान क्रम",module,Magento_Checkout
+"Place Order","स्थान क्रम",module,Magento_OfflinePayments
+"Place Order","स्थान क्रम",module,Magento_Payment
+"Once your package ships we will send you a tracking number.","एक बार अपने पैकेज जहाजों हम आपको एक ट्रैकिंग नंबर भेज देंगे ।",module,Magento_Sales
+"We don't recognize or support this file extension type.","विषयों जावास्क्रिप्ट और सीएसएस एक फ़ाइल के लिए संयुक्त फ़ाइलें ।",module,Magento_Backend
+"If you believe it is the right one you can ignore this notice.","यदि आपको लगता है कि यह सही है एक तुम इस नोटिस की अनदेखी कर सकते हैं ।",module,Magento_Checkout
+"Vul hier een geldige datum in.","वुल हिएर ईन गेदिगे गृहीत असावा.",module,Magento_Ui
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","इस फ़ील्ड की न्यूनतम लंबाई < div वर्ग = ""notranslate"" > 0 </div> प्रतीकों से बराबर या अधिक होनी चाहिए । अग्रणी और पीछे आने वाली रिक्तियों पर ध्यान नहीं दिया जाएगा ।",module,Magento_Ui
+"Show Toolbar","उपकरण पट्टी दिखाएं",module,Magento_AdminNotification
+"Show List","सूची दिखाएं",module,Magento_AdminNotification
+"Use HTTPS to Get Feed","फ़ीड प्राप्त करने के लिए HTTPS का उपयोग करें",module,Magento_AdminNotification
+"Update Frequency","अद्यतन आवृत्ति",module,Magento_AdminNotification
+"Last Update","अंतिम अद्यतन",module,Magento_AdminNotification
+Severity,गंभीरता,module,Magento_AdminNotification
+"Date Added","जोड़ने की तिथि",module,Magento_AdminNotification
+Message,संदेश ,module,Magento_AdminNotification
+Analytics,विश्लेषिकी,module,Magento_Analytics
+API,"एपीआई (API)",module,Magento_Analytics
+Industry,उद्योग,module,Magento_Analytics
+"Login is Case Sensitive","लॉगिन केस संवेदी है",module,Magento_Backend
+Main,मुख्‍य,module,Magento_Catalog
+"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","{{name}} as production Name या {{sku}} उत्पाद sku प्लेसहोल्डर्स के रूप में उपयोग करें",module,Magento_Catalog
+Storefront,स्टोर,module,Magento_Catalog
+"Category Top Navigation","श्रेणी शीर्ष नेविगेशन",module,Magento_Catalog
+Base,आधार,module,Magento_Catalog
+"Catalog Input Type for Store Owner","संग्रह स्वामी के लिए कैटलॉग इनपुट प्रकार",module,Magento_Catalog
+"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","पासवर्ड में आवश्यक विभिन्न वर्ण वर्गों की संख्या: लोअरकेस, अपरकेस, अंक, विशेष वर्ण.",module,Magento_Customer
+"Minimum Password Length","न्यूनतम पासवर्ड लंबाई",module,Magento_Customer
+"Prefix Dropdown Options","उपसर्ग ड्रॉपडाउन विकल्प",module,Magento_Customer
+"Conversion Color","रूपांतरण रंग",module,Magento_GoogleAdwords
+"Payments Pro","भुगतान प्रो",module,Magento_Paypal
+"By Customers",ग्राहक,module,Magento_Reports
+"Asynchronous indexing","अतुल्यकालिक अनुक्रमण",module,Magento_Sales
+"Max Products Sent in 1 Hour","1 घंटे में भेजे गए अधिकतम उत्पाद",module,Magento_SendFriend
+"Include FPT In Subtotal","उप-योग में fpt शामिल करें",module,Magento_Weee
+"Defines whether a link to My Account","निर्धारित करता है कि मेरे खाते का लिंक",module,Magento_Widget
+"Add Date","दिनांक जोड़ें",module,Magento_Wishlist
