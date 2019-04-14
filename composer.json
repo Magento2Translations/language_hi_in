@@ -1,7 +1,7 @@
 {
   "name": "magento2translations/language_hi_in",
   "description": "Hindi (हिन्दी) Magento2 Language Pack (hi_IN) - From Magento2Translations",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "http://magento2translations.github.io/",
   "license": [
     "MIT"
