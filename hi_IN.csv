@@ -127,6 +127,7 @@ Login,"लॉग इन",module,Magento_Checkout
 Severity,गंभीरता,module,Magento_AdminNotification
 "Date Added","जोड़ने की तिथि",module,Magento_AdminNotification
 Message,संदेश ,module,Magento_AdminNotification
+Actions,क्रियाएँ,module,Magento_AdminNotification
 Uses,उपयोग,module,Magento_AdvancedSearch
 Analytics,विश्लेषिकी,module,Magento_Analytics
 API,"एपीआई (API)",module,Magento_Analytics
